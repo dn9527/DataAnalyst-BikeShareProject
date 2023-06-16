@@ -19,7 +19,7 @@ The goal of this project is to analyze bike sharing data and uncover patterns an
 
 The data used for this analysis is sourced from the XYZ Bike Sharing Company. It includes information on ride duration, start and end locations (latitude and longitude), user type (casual or member), and bike type (classic bike or electric bike).
 
-The raw data is stored in the `data` directory, and the processed data is available in the `processed_data` directory.
+The raw data is stored in the `data` directory in the code, and the link to the data is available at https://divvy-tripdata.s3.amazonaws.com/index.html.
 
 ## Results
 
